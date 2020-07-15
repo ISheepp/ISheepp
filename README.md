@@ -8,5 +8,10 @@
 - 😄 Pronouns:
 - ⚡ Fun fact:
 ### 🚀 Goals in 2020
+
+
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
