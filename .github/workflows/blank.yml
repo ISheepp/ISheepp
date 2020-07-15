@@ -10,6 +10,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: linziyang1106/linziyang1106@master
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ bb1575e0-75fd-49fc-998d-70882412f056 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
