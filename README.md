@@ -2,7 +2,7 @@
 
 ### Hi there 🐏
 
-- 🌱 Senior
+- 🌱 Senior student
 - 🔭 I’m currently working on javaweb
 - 💬 Ask me about anything
 - 😄 Hobby: badminton & coding
