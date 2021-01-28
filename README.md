@@ -9,7 +9,7 @@
 
 ### 🚀 Goals in 2020
 + 🍃Learn Spring framework
-+ 🎓Focus on ZJUT exam
++ ~~🎓Focus on ZJUT exam~~
 -------
 
 📊 **Weekly development breakdown**
