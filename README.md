@@ -15,7 +15,6 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Java    3 hrs 51 mins   ████████████████████████▓   99.09 % 
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
