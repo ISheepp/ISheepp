@@ -4,7 +4,7 @@
 
 I'm ISheep, a back-end engineer
 
-- 🔭 I’m currently learning golang
+- 🔭 I’m currently learning Solidity
 - 💬 Ask me about anything
 - 😄 Hobby: badminton & coding
 - 👓 explore crypto and Web3.0
