@@ -23,12 +23,12 @@ I'm ISheep, a back-end engineer
 <!--START_SECTION:waka-->
 
 ```text
-Java         7 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.24 %
-JavaScript   3 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-YAML         2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Solidity     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Java                       15 hrs 38 mins  ███████████████░░░░░░░░░░   59.65 %
+YAML                       4 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+JavaScript                 2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Solidity                   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+XML                        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON                       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
