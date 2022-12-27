@@ -23,10 +23,7 @@ I'm ISheep, a back-end engineer
 <!--START_SECTION:waka-->
 
 ```text
-CSS          57 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
-YAML         42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Java         38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-Other        36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Other        58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
 ```
 
 <!--END_SECTION:waka-->
