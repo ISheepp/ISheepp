@@ -13,6 +13,10 @@ I'm ISheep, a back-end engineer
 
 -------
 
+![](https://raw.githubusercontent.com/ISheepp/ISheepp/output/github-contribution-grid-snake.svg)
+
+-------
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
