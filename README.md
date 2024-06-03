@@ -1,6 +1,6 @@
 [![profile](https://user-images.githubusercontent.com/54968314/208005045-e4b42f3b-833d-4242-bfcc-e764865553a2.svg)](https://www.calligrapher.ai/)
 
-<a href="https://app.daily.dev/linziyang1106"><img src="/devcard.png" width="250" alt="ISheep's Dev Card"/></a>
+<a href="https://app.daily.dev/linziyang1106"><img src="https://api.daily.dev/devcards/v2/i4Spwx5Skx5FpTqWcwoit.png?r=kgx&type=wide" width="652" alt="ISheep's Dev Card"/></a>
 
 ### Hi there 🐏
 
