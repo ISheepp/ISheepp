@@ -21,11 +21,11 @@ I'm ISheep, a back-end engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 mins          ████████████████████████░   96.25 %
-Docker             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-HTTP Request       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python             8 mins          ██████████▒░░░░░░░░░░░░░░   41.42 %
+XML                5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Other              4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+Java               2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+Docker             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
