@@ -21,11 +21,11 @@ I'm ISheep, a back-end engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Java           19 hrs 42 mins  █████████████████▒░░░░░░░   69.54 %
-TypeScript     3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-PHP            1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Markdown       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Java                 15 hrs 35 mins  ███████████████▒░░░░░░░░░   61.76 %
+TypeScript           4 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+PHP                  1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+YAML                 1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Markdown             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
