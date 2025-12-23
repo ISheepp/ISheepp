@@ -21,11 +21,11 @@ I'm ISheep, a back-end engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  7 hrs 23 mins   ██████████▓░░░░░░░░░░░░░░   42.69 %
-Python                3 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Markdown              1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Go                    1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-HTTP Request          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Java                  8 hrs 34 mins   ███████████▓░░░░░░░░░░░░░   46.86 %
+Python                3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+Go                    2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Markdown              1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+HTTP Request          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
